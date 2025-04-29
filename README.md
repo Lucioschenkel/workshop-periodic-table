@@ -1,4 +1,10 @@
-# Periodic Table Speller
+# Overview
+
+This is a fork of getify/workshop-periodic-table, presented in a workshop held by Kyle Simpson on Frontend Masters. I've merged my implementation into the main branch of this (forked) repository.
+
+# Original README content
+
+## Periodic Table Speller
 
 This workshop project explores the algorithmic complexities (speed and memory) of checking if an input word can be "spelled" (case-insensitive) by a sequence of the chemical symbol abbreviations from the standard periodic table.
 
